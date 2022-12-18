@@ -1,0 +1,10 @@
+.filter-item {
+  cursor: pointer;
+}
+.filter-item {
+  list-style-type: none;
+  padding: 5px 10px;
+}
+.filter-item:hover {
+  background-color: #f7f7f7;
+}
